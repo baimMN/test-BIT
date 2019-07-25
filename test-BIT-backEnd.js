@@ -1,7 +1,6 @@
 function getForm(input){
     let  data = ["pro","gram","merit","gramit","program","it","programmer","programmeri","t"]
     let results = []
-    let input = params.input
     let i = 0
     let beforeIndex = 0 
     let aa
