@@ -1,2 +1,2 @@
-# test-BIT
-test BIT back-end
+## Usage
+bisa dijalankan di code playground (code hanya berupa fungsinya) 
